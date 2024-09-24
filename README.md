@@ -1,2 +1,2 @@
 # ejemplo1
-hole de ejemplo1
+hola de ejemplo1
